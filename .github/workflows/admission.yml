@@ -1,0 +1,43 @@
+name: Admission
+
+on:
+  schedule:
+    - cron: "21-56/5 6 * * *"
+      timezone: Asia/Hong_Kong
+    - cron: "1-56/5 7-21 * * *"
+      timezone: Asia/Hong_Kong
+    - cron: "1-11/5 22 * * *"
+      timezone: Asia/Hong_Kong
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swimming-pool-hk-data-updates
+  cancel-in-progress: false
+
+jobs:
+  update-admission:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out data repository
+        uses: actions/checkout@v7
+
+      - name: Download latest scraper release
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: huikaihoo/swimming-pool-hk-scraper
+          latest: true
+          fileName: swimming-pool-hk-scraper
+
+      - name: Run admission scraper
+        run: |
+          chmod +x ./swimming-pool-hk-scraper
+          ./swimming-pool-hk-scraper admission
+
+      - name: Commit updated admission data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Update admission data
+          file_pattern: data

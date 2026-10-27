@@ -1,0 +1,46 @@
+name: Basic and schedule
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+      timezone: Asia/Hong_Kong
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swimming-pool-hk-data-updates
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out data repository
+        uses: actions/checkout@v7
+
+      - name: Download latest scraper release
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: huikaihoo/swimming-pool-hk-scraper
+          latest: true
+          fileName: swimming-pool-hk-scraper
+
+      - name: Run basic scraper
+        run: |
+          chmod +x ./swimming-pool-hk-scraper
+          ./swimming-pool-hk-scraper basic
+
+      - name: Run schedule scraper
+        run: ./swimming-pool-hk-scraper schedule
+
+      - name: Get Hong Kong date
+        id: hong-kong-date
+        run: echo "date=$(TZ=Asia/Hong_Kong date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Update basic and schedule data (${{ steps.hong-kong-date.outputs.date }})
+          file_pattern: data
