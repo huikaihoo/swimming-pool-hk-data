@@ -2,7 +2,7 @@ name: Basic and schedule
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "30 5 * * *"
       timezone: Asia/Hong_Kong
   workflow_dispatch:
 
@@ -43,4 +43,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update basic and schedule data (${{ steps.hong-kong-date.outputs.date }})
+          commit_author: GitHub Actions <41898282+github-actions[bot]@users.noreply.github.com>
           file_pattern: data

@@ -2,12 +2,13 @@
 
 Pool data snapshots produced by the [swimming-pool-hk-scraper](https://github.com/huikaihoo/swimming-pool-hk-scraper).
 
-The GitHub Actions workflows download the latest Linux release binary and commit changes under `data/`:
+The scraping workflows download the latest Linux release binary and update files under `data/`:
 
-- `Basic and schedule` runs `basic` followed by `schedule` and updates pool details and schedules.
 - `Admission` runs the `admission` command and updates admission snapshots.
+- `Basic and schedule` runs `basic` followed by `schedule` and updates pool details and schedules.
+- `Consolidate data updates` keeps manual commits separate and combines automated data changes into one final data commit.
 
-Both workflows can also be started manually from the Actions tab.
+The two scraping workflows can also be started manually from the Actions tab.
 
 Generated datasets:
 
