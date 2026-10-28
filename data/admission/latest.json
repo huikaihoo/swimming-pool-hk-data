@@ -1,0 +1,233 @@
+{
+  "timestamp": 1793198976000,
+  "data": [
+    {
+      "district": "Central and Western",
+      "name_en": "Kennedy Town Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Central and Western",
+      "name_en": "Sun Yat Sen Memorial Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Wan Chai",
+      "name_en": "Morrison Hill Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Wan Chai",
+      "name_en": "Victoria Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Eastern",
+      "name_en": "Island East Swimming Pool",
+      "status": "Annual Maintenance"
+    },
+    {
+      "district": "Eastern",
+      "name_en": "Chai Wan Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Eastern",
+      "name_en": "Siu Sai Wan Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Southern",
+      "name_en": "Pao Yue Kong Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sham Shui Po",
+      "name_en": "Lai Chi Kok Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sham Shui Po",
+      "name_en": "Lei Cheng Uk Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sham Shui Po",
+      "name_en": "Sham Shui Po Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kowloon City",
+      "name_en": "Tai Wan Shan Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kowloon City",
+      "name_en": "Ho Man Tin Swimming Pool",
+      "status": "Annual Maintenance"
+    },
+    {
+      "district": "Kowloon City",
+      "name_en": "Kowloon Tsai Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "name_en": "Morse Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "name_en": "Hammer Hill Road Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwun Tong",
+      "name_en": "Jordan Valley Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwun Tong",
+      "name_en": "Kwun Tong Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwun Tong",
+      "name_en": "Lam Tin Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "name_en": "Kowloon Park Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "name_en": "Tai Kok Tsui Swimming Pool",
+      "status": "Annual Maintenance"
+    },
+    {
+      "district": "Kwai Tsing",
+      "name_en": "Kwai Shing Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwai Tsing",
+      "name_en": "North Kwai Chung Jockey Club Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwai Tsing",
+      "name_en": "Tsing Yi Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Kwai Tsing",
+      "name_en": "Tsing Yi Southwest Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tsuen Wan",
+      "name_en": "Tsuen King Circuit Wu Chung Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tsuen Wan",
+      "name_en": "Shing Mun Valley Swimming Pool",
+      "status": "Open",
+      "maximumCapacity": 632,
+      "currentAdmission": 0,
+      "allowedAdmission": 632
+    },
+    {
+      "district": "Tuen Mun",
+      "name_en": "Tuen Mun Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tuen Mun",
+      "name_en": "The Jockey Club Yan Oi Tong Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tuen Mun",
+      "name_en": "Tuen Mun North West Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Yuen Long",
+      "name_en": "Yuen Long Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Yuen Long",
+      "name_en": "Tin Shui Wai Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Yuen Long",
+      "name_en": "Ping Shan Tin Shui Wai Swimming Pool",
+      "status": "Annual Maintenance"
+    },
+    {
+      "district": "Yuen Long",
+      "name_en": "Tin Sau Road Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "North",
+      "name_en": "Fanling Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "North",
+      "name_en": "Sheung Shui Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tai Po",
+      "name_en": "Tai Po Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Tai Po",
+      "name_en": "Tung Cheong Street Swimming Pool",
+      "status": "Annual Maintenance"
+    },
+    {
+      "district": "Sha Tin",
+      "name_en": "Sha Tin Jockey Club Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sha Tin",
+      "name_en": "Hin Tin Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sha Tin",
+      "name_en": "Ma On Shan Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sai Kung",
+      "name_en": "Tseung Kwan O Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Sai Kung",
+      "name_en": "Sai Kung Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Islands",
+      "name_en": "Mui Wo Swimming Pool",
+      "status": "Closed"
+    },
+    {
+      "district": "Islands",
+      "name_en": "Tung Chung Swimming Pool",
+      "status": "Closed"
+    }
+  ]
+}

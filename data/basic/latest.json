@@ -1,0 +1,646 @@
+[
+  {
+    "name_en": "Victoria Park Swimming Pool",
+    "name_tc": "維多利亞公園游泳池",
+    "address_en": "1 Hing Fat Street, Causeway Bay, Hong Kong",
+    "address_tc": "香港銅鑼灣興發街一號",
+    "district_en": "Wanchai",
+    "district_tc": "灣仔",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=5",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=5",
+    "coordinates": [
+      114.1904757122,
+      22.2833357638
+    ]
+  },
+  {
+    "name_en": "Hammer Hill Road Swimming Pool",
+    "name_tc": "斧山道游泳池",
+    "address_en": "30 Lung Cheung Road, Wong Tai Sin, Kln.",
+    "address_tc": "九龍黃大仙龍翔道30號",
+    "district_en": "Wong Tai Sin",
+    "district_tc": "黃大仙",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=16",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=16",
+    "coordinates": [
+      114.2064551922,
+      22.3375615059
+    ]
+  },
+  {
+    "name_en": "Morse Park Swimming Pool",
+    "name_tc": "摩士公園游泳池",
+    "address_en": "80 Fung Mo Street, Wong Tai Sin, Kln.",
+    "address_tc": "九龍黃大仙鳳舞街80號",
+    "district_en": "Wong Tai Sin",
+    "district_tc": "黃大仙",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=15",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=15",
+    "coordinates": [
+      114.1905609085,
+      22.3408959133
+    ]
+  },
+  {
+    "name_en": "Lei Cheng Uk Swimming Pool",
+    "name_tc": "李鄭屋游泳池",
+    "address_en": "25 Kwong Lee Road, Kowloon, Hong Kong",
+    "address_tc": "深水埗廣利道25號",
+    "district_en": "Sham Shui Po",
+    "district_tc": "深水埗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=10",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=10",
+    "coordinates": [
+      114.1621231331,
+      22.3388233112
+    ]
+  },
+  {
+    "name_en": "Lai Chi Kok Park Swimming Pool",
+    "name_tc": "荔枝角公園游泳池",
+    "address_en": "1 Lai Wan Road, Sham Shui Po, Kowloon",
+    "address_tc": "九龍深水埗荔灣道1號",
+    "district_en": "Sham Shui Po",
+    "district_tc": "深水埗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=8",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=8",
+    "coordinates": [
+      114.1372749033,
+      22.3403254495
+    ]
+  },
+  {
+    "name_en": "Sham Shui Po Park Swimming Pool",
+    "name_tc": "深水埗公園游泳池",
+    "address_en": "733 Lai Chi Kok Road, Sham Shui Po, Kowloon.",
+    "address_tc": "九龍深水埗荔枝角道733號",
+    "district_en": "Sham Shui Po",
+    "district_tc": "深水埗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=9",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=9",
+    "coordinates": [
+      114.1549972207,
+      22.33113839
+    ]
+  },
+  {
+    "name_en": "Tin Shui Wai Swimming Pool",
+    "name_tc": "天水圍游泳池",
+    "address_en": "No. 1 Tin Pak Road, Tin Shui Wai",
+    "address_tc": "天水圍天柏路一號",
+    "district_en": "Yuen Long",
+    "district_tc": "元朗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=23",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=23",
+    "coordinates": [
+      114.0069142077,
+      22.4561735524
+    ]
+  },
+  {
+    "name_en": "Tai Po Swimming Pool",
+    "name_tc": "大埔游泳池",
+    "address_en": "11 Ting Tai Road",
+    "address_tc": "大埔汀太路11號",
+    "district_en": "Tai Po",
+    "district_tc": "大埔",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=31",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=31",
+    "coordinates": [
+      114.1632543468,
+      22.4555905843
+    ]
+  },
+  {
+    "name_en": "Kwun Tong Swimming Pool",
+    "name_tc": "觀塘游泳池",
+    "address_en": "2 Tsui Ping Road, Kwun Tong, Kowloon, Hong Kong",
+    "address_tc": "九龍觀塘翠屏道2號",
+    "district_en": "Kwun Tong",
+    "district_tc": "觀塘",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=18",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=18",
+    "coordinates": [
+      114.229943337,
+      22.3107951723
+    ]
+  },
+  {
+    "name_en": "Lam Tin Swimming Pool",
+    "name_tc": "藍田游泳池",
+    "address_en": "1/F Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kowloon",
+    "address_tc": "九龍藍田慶田街1號藍田綜合大樓1樓",
+    "district_en": "Kwun Tong",
+    "district_tc": "觀塘",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=42",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=42",
+    "coordinates": [
+      114.2372793555,
+      22.3101649773
+    ]
+  },
+  {
+    "name_en": "Jordan Valley Swimming Pool",
+    "name_tc": "佐敦谷游泳池",
+    "address_en": "6 Choi Ha Road, Kwun Tong, Kowloon, Hong Kong",
+    "address_tc": "九龍牛頭角彩霞道6號",
+    "district_en": "Kwun Tong",
+    "district_tc": "觀塘",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=17",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=17",
+    "coordinates": [
+      114.2183298627,
+      22.3238387391
+    ]
+  },
+  {
+    "name_en": "Kowloon Park Swimming Pool",
+    "name_tc": "九龍公園游泳池",
+    "address_en": "22 Austin Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "address_tc": "九龍尖沙咀柯士甸道22號",
+    "district_en": "Yau Tsim Mong",
+    "district_tc": "油尖旺",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=11",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=11",
+    "coordinates": [
+      114.1703935392,
+      22.3013812036
+    ]
+  },
+  {
+    "name_en": "Tuen Mun Swimming Pool",
+    "name_tc": "屯門游泳池",
+    "address_en": "8 Hoi Wong Road,Tuen Mun",
+    "address_tc": "屯門海皇路8號",
+    "district_en": "Tuen Mun",
+    "district_tc": "屯門",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=20",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=20",
+    "coordinates": [
+      113.9631480611,
+      22.3830730141
+    ]
+  },
+  {
+    "name_en": "The Jockey Club Yan Oi Tong Swimming Pool",
+    "name_tc": "賽馬會仁愛堂游泳池",
+    "address_en": "Tsing Chung Koon Road, Tuen Mun, N.T.",
+    "address_tc": "新界屯門青松觀路",
+    "district_en": "Tuen Mun",
+    "district_tc": "屯門",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=21",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=21",
+    "coordinates": [
+      113.9740350029,
+      22.4021932016
+    ]
+  },
+  {
+    "name_en": "Tsing Yi Swimming Pool",
+    "name_tc": "青衣游泳池",
+    "address_en": "51 Tsing King Road, Tsing Yi, N.T.",
+    "address_tc": "新界青衣青敬路 51號",
+    "district_en": "Kwai Tsing",
+    "district_tc": "葵青",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=28",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=28",
+    "coordinates": [
+      114.1079616988,
+      22.3575540711
+    ]
+  },
+  {
+    "name_en": "North Kwai Chung Jockey Club Swimming Pool",
+    "name_tc": "北葵涌賽馬會游泳池",
+    "address_en": "290 Wo Yi Hop Road, Kwai Chung",
+    "address_tc": "新界葵涌和宜合道290號",
+    "district_en": "Kwai Tsing",
+    "district_tc": "葵青",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=27",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=27",
+    "coordinates": [
+      114.1367822346,
+      22.3726510908
+    ]
+  },
+  {
+    "name_en": "Kwai Shing Swimming Pool",
+    "name_tc": "葵盛游泳池",
+    "address_en": "306 Kwai Shing Circuit, Kwai Chung",
+    "address_tc": "新界葵涌葵盛圍306號",
+    "district_en": "Kwai Tsing",
+    "district_tc": "葵青",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=26",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=26",
+    "coordinates": [
+      114.1231375212,
+      22.3593027104
+    ]
+  },
+  {
+    "name_en": "Mui Wo Swimming Pool",
+    "name_tc": "梅窩游泳池",
+    "address_en": "5 Ngan Shek Street, Mui Wo, Lantau Island.",
+    "address_tc": "大嶼山梅窩銀石街5號",
+    "district_en": "Islands",
+    "district_tc": "離島",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=19",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=19",
+    "coordinates": [
+      113.9959867143,
+      22.2663465705
+    ]
+  },
+  {
+    "name_en": "Sai Kung Swimming Pool",
+    "name_tc": "西貢游泳池",
+    "address_en": "12 Wan Man Road, Sai Kung, NT",
+    "address_tc": "西貢惠民路12號",
+    "district_en": "Sai Kung",
+    "district_tc": "西貢",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=36",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=36",
+    "coordinates": [
+      114.2754514853,
+      22.3834662367
+    ]
+  },
+  {
+    "name_en": "Ho Man Tin Swimming Pool",
+    "name_tc": "何文田游泳池",
+    "address_en": "1 Chung Yee Street, Ho Man Tin, Kowloon",
+    "address_tc": "九龍何文田忠義街1號",
+    "district_en": "Kowloon City",
+    "district_tc": "九龍城",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=13",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=13",
+    "coordinates": [
+      114.1810370356,
+      22.3122685782
+    ]
+  },
+  {
+    "name_en": "Tai Wan Shan Swimming Pool",
+    "name_tc": "大環山游泳池",
+    "address_en": "No.7 Wan Hoi Street, Hung Hom, Kowloon",
+    "address_tc": "九龍紅磡環海街7號",
+    "district_en": "Kowloon City",
+    "district_tc": "九龍城",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=12",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=12",
+    "coordinates": [
+      114.1923072153,
+      22.3051066236
+    ]
+  },
+  {
+    "name_en": "Kowloon Tsai Swimming Pool",
+    "name_tc": "九龍仔游泳池",
+    "address_en": "13 Inverness Road, Kowloon City, Kowloon",
+    "address_tc": "九龍城延文禮士道13號",
+    "district_en": "Kowloon City",
+    "district_tc": "九龍城",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=14",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=14",
+    "coordinates": [
+      114.1846175726,
+      22.3331291105
+    ]
+  },
+  {
+    "name_en": "Kennedy Town Swimming Pool",
+    "name_tc": "堅尼地城游泳池",
+    "address_en": "2 Sai Cheung Street North, Kennedy Town, Hong Kong",
+    "address_tc": "香港堅尼地城西祥街北2號",
+    "district_en": "Central & Western",
+    "district_tc": "中西區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=2",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=2",
+    "coordinates": [
+      114.1313128298,
+      22.2857546819
+    ]
+  },
+  {
+    "name_en": "Morrison Hill Swimming Pool",
+    "name_tc": "摩理臣山游泳池",
+    "address_en": "7 Oi Kwan Road, Wan Chai, Hong Kong",
+    "address_tc": "香港灣仔愛群道7號",
+    "district_en": "Wanchai",
+    "district_tc": "灣仔",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=4",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=4",
+    "coordinates": [
+      114.1783940529,
+      22.2763652109
+    ]
+  },
+  {
+    "name_en": "Wan Chai Swimming Pool",
+    "name_tc": "灣仔游泳池",
+    "address_en": "27 Harbour Road, Wan Chai, Hong Kong",
+    "address_tc": "香港灣仔港灣道27號",
+    "district_en": "Wanchai",
+    "district_tc": "灣仔",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=3",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=3",
+    "coordinates": [
+      114.1768850206,
+      22.2812141381
+    ]
+  },
+  {
+    "name_en": "Pao Yue Kong Swimming Pool",
+    "name_tc": "包玉剛游泳池",
+    "address_en": "2 Shum Wan Road, Wong Chuk Hang, Hong Kong",
+    "address_tc": "香港黃竹坑深灣道２號",
+    "district_en": "Southern",
+    "district_tc": "南區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=1",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=1",
+    "coordinates": [
+      114.1652507319,
+      22.2457548536
+    ]
+  },
+  {
+    "name_en": "Sun Yat Sen Memorial Park Swimming Pool",
+    "name_tc": "中山紀念公園游泳池",
+    "address_en": "16 Eastern Street North, Sai Ying Pun, Hong Kong",
+    "address_tc": "香港西營盤東邊街北16號",
+    "district_en": "Central & Western",
+    "district_tc": "中西區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=40",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=40",
+    "coordinates": [
+      114.1443535494,
+      22.2899814392
+    ]
+  },
+  {
+    "name_en": "Fanling Swimming Pool",
+    "name_tc": "粉嶺游泳池",
+    "address_en": "73 San Wan Road, Fanling, N.T.",
+    "address_tc": "新界粉嶺新運路73號",
+    "district_en": "North",
+    "district_tc": "北區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=29",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=29",
+    "coordinates": [
+      114.1360931001,
+      22.4949062635
+    ]
+  },
+  {
+    "name_en": "Tseung Kwan O Swimming Pool",
+    "name_tc": "將軍澳游泳池",
+    "address_en": "9 Wan Lung Road, Tseung Kwan O, NT",
+    "address_tc": "將軍澳運隆路9號",
+    "district_en": "Sai Kung",
+    "district_tc": "西貢",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=35",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=35",
+    "coordinates": [
+      114.2600526663,
+      22.3179555181
+    ]
+  },
+  {
+    "name_en": "Chai Wan Swimming Pool",
+    "name_tc": "柴灣游泳池",
+    "address_en": "345 San Ha Street, Chai Wan, Hong Kong",
+    "address_tc": "香港柴灣新廈街345號",
+    "district_en": "Eastern",
+    "district_tc": "東區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=7",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=7",
+    "coordinates": [
+      114.2462526704,
+      22.2645034451
+    ]
+  },
+  {
+    "name_en": "Tai Kok Tsui Swimming Pool",
+    "name_tc": "大角咀游泳池",
+    "address_en": "4/F, 63 Fuk Tsun Street, Tai Kok Tsui  Municipal Services Building, Tai Kok Tsui, Kowloon",
+    "address_tc": "九龍大角咀福全街63號大角咀市政大廈四樓",
+    "district_en": "Yau Tsim Mong",
+    "district_tc": "油尖旺",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=37",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=37",
+    "coordinates": [
+      114.1628722668,
+      22.3220337195
+    ]
+  },
+  {
+    "name_en": "Yuen Long Swimming Pool",
+    "name_tc": "元朗游泳池",
+    "address_en": "10 Tai Yuk Road, Yuen Long",
+    "address_tc": "元朗體育路10號",
+    "district_en": "Yuen Long",
+    "district_tc": "元朗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=22",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=22",
+    "coordinates": [
+      114.0213863306,
+      22.4413466375
+    ]
+  },
+  {
+    "name_en": "Hin Tin Swimming Pool",
+    "name_tc": "顯田游泳池",
+    "address_en": "68 Che Kung Miu Road, Tai Wai, Sha Tin.",
+    "address_tc": "沙田大圍車公廟路68號",
+    "district_en": "Sha Tin",
+    "district_tc": "沙田",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=33",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=33",
+    "coordinates": [
+      114.1732683461,
+      22.3672647761
+    ]
+  },
+  {
+    "name_en": "Ma On Shan Swimming Pool",
+    "name_tc": "馬鞍山游泳池",
+    "address_en": "33 On Chun Street, Ma On Shan, Sha Tin.",
+    "address_tc": "沙田馬鞍山鞍駿街33號",
+    "district_en": "Sha Tin",
+    "district_tc": "沙田",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=34",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=34",
+    "coordinates": [
+      114.2296494809,
+      22.427200694
+    ]
+  },
+  {
+    "name_en": "Sha Tin Jockey Club Swimming Pool",
+    "name_tc": "沙田賽馬會游泳池",
+    "address_en": "10 Yuen Wo Road, Sha Tin, N.T.",
+    "address_tc": "沙田源禾路10號",
+    "district_en": "Sha Tin",
+    "district_tc": "沙田",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=32",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=32",
+    "coordinates": [
+      114.1938987423,
+      22.3841076636
+    ]
+  },
+  {
+    "name_en": "Sheung Shui Swimming Pool",
+    "name_tc": "上水游泳池",
+    "address_en": "38 Tin Ping Road, Sheung Shui, N.T.",
+    "address_tc": "新界上水天平路38號",
+    "district_en": "North",
+    "district_tc": "北區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=30",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=30",
+    "coordinates": [
+      114.1313401428,
+      22.5061902707
+    ]
+  },
+  {
+    "name_en": "Shing Mun Valley Swimming Pool",
+    "name_tc": "城門谷游泳池",
+    "address_en": "21 Shing Mun Road, Tsuen Wan.N.T.",
+    "address_tc": "荃灣城門道21號",
+    "district_en": "Tsuen Wan",
+    "district_tc": "荃灣",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=25",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=25",
+    "coordinates": [
+      114.1235196175,
+      22.3731773574
+    ]
+  },
+  {
+    "name_en": "Tsuen King Circuit Wu Chung Swimming Pool",
+    "name_tc": "荃景圍胡忠游泳池",
+    "address_en": "On Yat Street, Tsuen King Circuit, Tsuen Wan",
+    "address_tc": "荃灣荃景圍安逸街",
+    "district_en": "Tsuen Wan",
+    "district_tc": "荃灣",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=24",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=24",
+    "coordinates": [
+      114.1042045568,
+      22.3779758881
+    ]
+  },
+  {
+    "name_en": "Tung Chung Swimming Pool",
+    "name_tc": "東涌游泳池",
+    "address_en": "5 Tat Tung Road, Tung Chung",
+    "address_tc": "東涌達東路5號",
+    "district_en": "Islands",
+    "district_tc": "離島",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=38",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=38",
+    "coordinates": [
+      113.9386278003,
+      22.2893439262
+    ]
+  },
+  {
+    "name_en": "Ping Shan Tin Shui Wai Swimming Pool",
+    "name_tc": "屏山天水圍游泳池",
+    "address_en": "No.1, Tsui Sing Road, Tin Shui Wai, Yuen Long",
+    "address_tc": "元朗天水圍聚星路1號",
+    "district_en": "Yuen Long",
+    "district_tc": "元朗",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=41",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=41",
+    "coordinates": [
+      114.0046740116,
+      22.4473701329
+    ]
+  },
+  {
+    "name_en": "Siu Sai Wan Swimming Pool",
+    "name_tc": "小西灣游泳池",
+    "address_en": "1/F Siu Sai Wan Complex, 15 Siu Sai Wan Road, Hong Kong",
+    "address_tc": "香港小西灣道15號小西灣綜合大樓一樓",
+    "district_en": "Eastern",
+    "district_tc": "東區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=39",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=39",
+    "coordinates": [
+      114.2496702378,
+      22.26352122
+    ]
+  },
+  {
+    "name_en": "Tuen Mun North West Swimming Pool",
+    "name_tc": "屯門西北游泳池",
+    "address_en": "95 Ming Kum Road, Tuen Mun",
+    "address_tc": "屯門鳴琴路95號",
+    "district_en": "Tuen Mun",
+    "district_tc": "屯門",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=43",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=43",
+    "coordinates": [
+      113.9659321916,
+      22.408232336
+    ]
+  },
+  {
+    "name_en": "Island East Swimming Pool",
+    "name_tc": "港島東游泳池",
+    "address_en": "1/F Island East Sports Centre, 52 Lei King Road,  Sai Wan Ho, Hong Kong",
+    "address_tc": "香港西灣河鯉景道52號港島東體育館一樓",
+    "district_en": "Eastern",
+    "district_tc": "東區",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=6",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=6",
+    "coordinates": [
+      114.2222929008,
+      22.284754102
+    ]
+  },
+  {
+    "name_en": "Tsing Yi Southwest Swimming Pool",
+    "name_tc": "青衣西南游泳池",
+    "address_en": "70 Chung Mei Road, Tsing Yi, N.T.",
+    "address_tc": "新界青衣涌美路70號",
+    "district_en": "Kwai Tsing",
+    "district_tc": "葵青",
+    "url_en": "http://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=44",
+    "url_tc": "http://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=44",
+    "coordinates": [
+      114.1020678916,
+      22.3515587843
+    ]
+  },
+  {
+    "name_en": "Tung Cheong Street Swimming Pool",
+    "name_tc": "東昌街游泳池",
+    "address_en": "1/F, Tai Po Tung Cheong Street Leisure Building",
+    "address_tc": "大埔東昌街康體大樓1樓",
+    "district_en": "Tai Po",
+    "district_tc": "大埔",
+    "url_en": "https://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=250",
+    "url_tc": "https://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=250",
+    "coordinates": [
+      114.1701758048,
+      22.4497866777
+    ]
+  },
+  {
+    "name_en": "Tin Sau Road Swimming Pool",
+    "name_tc": "天秀路游泳池",
+    "address_en": "20 Tin Sau Road, Tin Shui Wai",
+    "address_tc": "天水圍天秀路20號",
+    "district_en": "Yuen Long",
+    "district_tc": "元朗",
+    "url_en": "https://www.lcsd.gov.hk/clpss/en/webApp/Swimming.do?swpId=261",
+    "url_tc": "https://www.lcsd.gov.hk/clpss/tc/webApp/Swimming.do?swpId=261",
+    "coordinates": [
+      114.0026641222,
+      22.467109419
+    ]
+  }
+]
