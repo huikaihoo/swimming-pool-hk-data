@@ -2,7 +2,7 @@ name: Basic and schedule
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    - cron: "4 5-22 * * *"
       timezone: Asia/Hong_Kong
   workflow_dispatch:
 
