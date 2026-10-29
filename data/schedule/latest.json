@@ -29,32 +29,12 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T18:00:00+08:00",
-        "end_time": "2026-10-28T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
-        "start_time": "2026-10-29T07:30:00+08:00",
-        "end_time": "2026-10-29T16:00:00+08:00",
-        "facilities_en": "Main Pool , Multi-purpose Pool",
-        "facilities_tc": "主池, 多用途池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Organization : Lingnan Secondary School",
-        "remarks_tc": "主辦機構 : 嶺南中學"
-      },
-      {
         "start_time": "2026-10-30T07:30:00+08:00",
         "end_time": "2026-10-30T20:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
         "facilities_tc": "主池, 多用途池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
         "remarks_en": "Function : Inter-School Swimming Competitions Organization : The Schools Sports Federation of Hong Kong, China",
         "remarks_tc": "主辦項目 : 學界游泳比賽 主辦機構 : 中國香港學界體育聯會"
       },
@@ -185,8 +165,8 @@
         "facilities_tc": "多用途池",
         "reason_en": "Training",
         "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm)",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時)"
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
       },
       {
         "start_time": "2026-11-25T18:00:00+08:00",
@@ -321,18 +301,7 @@
         "facilities_tc": "室內副池"
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-10-28T10:00:00+08:00",
-        "end_time": "2026-10-28T22:00:00+08:00",
-        "facilities_en": "Children's Pool",
-        "facilities_tc": "兒童池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Lei Cheng Uk Swimming Pool",
@@ -519,18 +488,8 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T12:00:00+08:00",
-        "facilities_en": "Teaching Pool",
-        "facilities_tc": "習泳池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T13:00:00+08:00",
-        "end_time": "2026-10-28T22:00:00+08:00",
+        "start_time": "2026-10-29T19:00:00+08:00",
+        "end_time": "2026-10-29T22:00:00+08:00",
         "facilities_en": "Giant Water Slides",
         "facilities_tc": "大型滑水梯",
         "reason_en": "Insufficient Lifeguard",
@@ -570,10 +529,10 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
+        "start_time": "2026-10-29T19:00:00+08:00",
         "end_time": null,
-        "facilities_en": "Diving Pool , sliding Pool, Children's Pool",
-        "facilities_tc": "跳水池, 滑梯池, 兒童池",
+        "facilities_en": "Diving Pool , sliding Pool",
+        "facilities_tc": "跳水池, 滑梯池",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -746,16 +705,6 @@
         "reason_tc": "其他",
         "remarks_en": "Due to insufficient lifeguards, arrangement of swimming pool facilities from 1 to 31 October is shown as below: 3rd Session (19:00-22:00): Open – Training Pool, Leisure Pool 1 & 4 Closed – Leisure Pool 2 & 3 Please call Jordan Valley Swimming Pool for the latest information (Tel: 2305 5919).",
         "remarks_tc": "由於救生員人手不足，10月1日至10月31日泳池設施安排如下： 第三節 (19:00 - 22:00) : 開放訓練池，嬉水池1及4號 暫停開放嬉水池2及3號 如有需要可致電佐敦谷游泳池(電話：2305 5919)查詢有關最新安排。"
-      },
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T14:15:00+08:00",
-        "facilities_en": "Leisure Pool (4)",
-        "facilities_tc": "嬉水池 (4)",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
       }
     ]
   },
@@ -794,26 +743,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T12:00:00+08:00",
-        "facilities_en": "Leisure Pool No. 1, Leisure Pool No. 2, Toddlers' Pool",
-        "facilities_tc": "嬉水池一號, 嬉水池二號, 戲水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-29T16:00:00+08:00",
-        "end_time": "2026-10-29T22:00:00+08:00",
-        "facilities_en": "Main Pool , Diving Pool , Indoor L1 Training Pool",
-        "facilities_tc": "主池, 跳水池, 室內第一層訓練池",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : HK Age Group LC Swimming Championships 2026-27 Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 二零二六至二零二七年度香港長池分齡游泳錦標賽 主辦機構 : 中國香港游泳總會"
-      },
       {
         "start_time": "2026-10-30T16:00:00+08:00",
         "end_time": "2026-10-30T22:00:00+08:00",
@@ -972,20 +901,10 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-27T14:15:00+08:00",
-        "end_time": null,
-        "facilities_en": "Indoor Training Pool, Leisure pool",
-        "facilities_tc": "室內訓練池, 嬉水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
         "start_time": null,
         "end_time": null,
-        "facilities_en": "Teaching Pool, Diving Pool",
-        "facilities_tc": "習泳池, 跳水池",
+        "facilities_en": "Indoor Training Pool, Teaching Pool, Leisure pool, Diving Pool",
+        "facilities_tc": "室內訓練池, 習泳池, 嬉水池, 跳水池",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -1051,18 +970,7 @@
         "facilities_tc": ""
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T14:30:00+08:00",
-        "facilities_en": "Teaching Pool, Leisure Pool 1, Toddlers' Pool, Leisure Pool 2, Giant Water Slides",
-        "facilities_tc": "習泳池, 嬉水池1, 戲水池 , 嬉水池2, 大型滑水梯",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "North Kwai Chung Jockey Club Swimming Pool",
@@ -1122,28 +1030,7 @@
         "facilities_tc": ""
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-10-28T07:00:00+08:00",
-        "end_time": "2026-10-28T10:00:00+08:00",
-        "facilities_en": "Secondary Pool, Diving Pool , Children's Pool",
-        "facilities_tc": "副池, 跳水池, 兒童池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T10:00:00+08:00",
-        "end_time": "2026-10-28T12:00:00+08:00",
-        "facilities_en": "Secondary Pool, Teaching Pool (1), Teaching Pool (2), Teaching Pool (3), Diving Pool",
-        "facilities_tc": "副池, 習泳池 (1), 習泳池 (2), 習泳池 (3), 跳水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Mui Wo Swimming Pool",
@@ -1205,10 +1092,10 @@
     ],
     "temp_closure": [
       {
-        "start_time": null,
-        "end_time": null,
-        "facilities_en": "Leisure Pool 2 (Water Slides)",
-        "facilities_tc": "嬉水池 2 (滑水梯)",
+        "start_time": "2026-10-29T19:00:00+08:00",
+        "end_time": "2026-10-30T22:00:00+08:00",
+        "facilities_en": "Leisure Pool 1",
+        "facilities_tc": "嬉水池 1",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -1217,8 +1104,8 @@
       {
         "start_time": null,
         "end_time": null,
-        "facilities_en": "Leisure Pool 1",
-        "facilities_tc": "嬉水池 1",
+        "facilities_en": "Leisure Pool 2 (Water Slides)",
+        "facilities_tc": "嬉水池 2 (滑水梯)",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -1359,20 +1246,10 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
+        "start_time": "2026-10-29T06:30:00+08:00",
         "end_time": null,
         "facilities_en": "Training Pool",
         "facilities_tc": "訓練池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T10:00:00+08:00",
-        "end_time": null,
-        "facilities_en": "Leisure Pool",
-        "facilities_tc": "嬉水池",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -1472,18 +1349,8 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T18:00:00+08:00",
-        "facilities_en": "Main Pool , Toddlers' Pool",
-        "facilities_tc": "主池, 幼童池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T18:00:00+08:00",
-        "end_time": "2026-10-31T22:00:00+08:00",
+        "start_time": "2026-10-30T06:30:00+08:00",
+        "end_time": "2026-10-30T22:00:00+08:00",
         "facilities_en": "Training Pool, Teaching Pool, Toddlers' Pool",
         "facilities_tc": "訓練池, 習泳池, 幼童池",
         "reason_en": "Insufficient Lifeguard",
@@ -1544,16 +1411,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T22:00:00+08:00",
-        "facilities_en": "Diving Pool , Children's Pool, Toddlers' Pool",
-        "facilities_tc": "跳水池, 兒童池, 戲水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
       {
         "start_time": "2026-10-30T07:00:00+08:00",
         "end_time": "2026-10-30T15:00:00+08:00",
@@ -1654,6 +1511,16 @@
         "reason_tc": "學校水運會",
         "remarks_en": "Function : School Swimming Gala Organization : Saint Louis School (Primary Section)",
         "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 聖類斯中學(小學部)"
+      },
+      {
+        "start_time": "2026-11-29T07:30:00+08:00",
+        "end_time": "2026-11-29T22:00:00+08:00",
+        "facilities_en": "Main Pool , Training Pool , Spectator Stand",
+        "facilities_tc": "主池, 訓練池, 觀眾看台",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Competition Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 游泳比賽 主辦機構 : 中國香港游泳總會"
       }
     ]
   },
@@ -1701,6 +1568,16 @@
         "reason_tc": "池水受污染",
         "remarks_en": "Object Found: Nil",
         "remarks_tc": "發現物體 : 不適用"
+      },
+      {
+        "start_time": "2026-10-30T06:30:00+08:00",
+        "end_time": "2026-10-30T14:15:00+08:00",
+        "facilities_en": "Toddlers' Pool",
+        "facilities_tc": "戲水池",
+        "reason_en": "Insufficient Lifeguard",
+        "reason_tc": "救生員不足",
+        "remarks_en": "",
+        "remarks_tc": ""
       }
     ]
   },
@@ -1743,26 +1620,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T14:15:00+08:00",
-        "facilities_en": "Training Pool , Diving Pool , Leisure Pool 2 (Water Slides)",
-        "facilities_tc": "訓練池, 跳水池, 嬉水池 2 (滑水梯)",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T07:30:00+08:00",
-        "end_time": "2026-10-28T14:00:00+08:00",
-        "facilities_en": "Main Pool , Spectator Stand",
-        "facilities_tc": "主池, 觀眾看台",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : Hong Kong and Macau Lutheran Church Primary School",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 港澳信義會小學"
-      },
       {
         "start_time": "2026-10-30T07:30:00+08:00",
         "end_time": "2026-10-30T15:00:00+08:00",
@@ -1823,6 +1680,16 @@
         "reason_tc": "其他",
         "remarks_en": "The following facilities will be opened as below First session (Excluding Saturday & Sunday & Public Holiday & Cleansing Day) (06:30 – 09:00) : Secondary Pool, Teaching Pool 1 & 2, Training Pool (09:00 – 12:00) : Main Pool ,Secondary Pool, Teaching Pool 1 & 2, Training Pool, Second session (13:00 – 17:00) : Main Pool, Teaching Pool 1 & 2, Training Pool, Leisure pool 1,2 Third session (18:00 – 22:00) : Main Pool, Teaching Pool 1 & 2, Training Pool First session (Public Holiday & Cleansing Day) (06:30 – 09:00) : Secondary Pool, Teaching Pool 1 & 2, Training Pool (09:00 – 12:00) : Secondary Pool, Teaching Pool 1 & 2, Training Pool, Leisure pool 1,2 (09:00 – 10:00) : Secondary Pool, Teaching Pool 1 & 2, Training Pool, Leisure pool 2(Cleansing Day)",
         "remarks_tc": "泳池設施開放如下 第一節 (星期六、日和公眾假期及大洗日除外) (06:30 - 09:00) ：開放副池、習泳池1 & 2號、訓練池 (09:00 - 12:00) : 開放主池、副池、習泳池1 & 2號、訓練池 第二節 (13:00 - 17:00 ) : 開放主池、習泳池1 & 2號、訓練池、嬉水池1,2 第三節 (18:00 - 22:00) : 開放主池、習泳池1 & 2號、訓練池 第一節 (星期六、日和公眾假期及大洗日) (06:30 - 09:00) : 開放副池、習泳池1 & 2號、訓練池 (09:00 - 12:00) : 開放副池、習泳池1 & 2號、訓練池、嬉水池1,2 (09:00 - 10:00) : 開放副池、習泳池1 & 2號、訓練池、嬉水池 2(大洗日)"
+      },
+      {
+        "start_time": "2026-10-30T06:30:00+08:00",
+        "end_time": "2026-10-30T12:00:00+08:00",
+        "facilities_en": "Training Pool, Teaching Pool (2)",
+        "facilities_tc": "訓練池, 習泳池 (2)",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: others (Carbon)",
+        "remarks_tc": "發現物體 : 其他 (活性碳)"
       }
     ]
   },
@@ -1891,46 +1758,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T10:00:00+08:00",
-        "facilities_en": "Training Pool",
-        "facilities_tc": "訓練池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T10:00:00+08:00",
-        "facilities_en": "Diving Pool",
-        "facilities_tc": "跳水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-28T19:00:00+08:00",
-        "end_time": "2026-10-28T22:00:00+08:00",
-        "facilities_en": "Training Pool , Diving Pool",
-        "facilities_tc": "訓練池, 跳水池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      },
-      {
-        "start_time": "2026-10-29T17:00:00+08:00",
-        "end_time": "2026-10-29T18:00:00+08:00",
-        "facilities_en": "Diving Pool",
-        "facilities_tc": "跳水池",
-        "reason_en": "Others",
-        "reason_tc": "其他",
-        "remarks_en": "Training Lesson",
-        "remarks_tc": "訓練班"
-      },
       {
         "start_time": "2026-10-30T17:00:00+08:00",
         "end_time": "2026-10-30T19:00:00+08:00",
@@ -2049,16 +1876,6 @@
         "remarks_tc": "關閉原因 : 救生員不足 星期六 / 日及公眾假期第二節(下午1時至6時)照常開放 ; 星期一至五暫停開放 ; 星期六 / 日及公眾假期第一節(上午6時30分至中午12時)和第三節(晚上7時至10時)暫停開放"
       },
       {
-        "start_time": "2026-10-28T07:30:00+08:00",
-        "end_time": "2026-10-28T14:00:00+08:00",
-        "facilities_en": "Main Pool , Spectator Stand",
-        "facilities_tc": "主池, 觀眾看台",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : Swimming Competition Organization : Sha Tin College",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 英基書院"
-      },
-      {
         "start_time": "2026-10-29T07:30:00+08:00",
         "end_time": "2026-10-29T15:00:00+08:00",
         "facilities_en": "Main Pool , Spectator Stand",
@@ -2162,8 +1979,8 @@
         "remarks_tc": ""
       },
       {
-        "start_time": "2026-10-28T13:00:00+08:00",
-        "end_time": "2026-10-28T18:00:00+08:00",
+        "start_time": "2026-10-29T19:00:00+08:00",
+        "end_time": "2026-10-29T22:00:00+08:00",
         "facilities_en": "Leisure Pool (1)",
         "facilities_tc": "嬉水池 (1)",
         "reason_en": "Insufficient Lifeguard",
@@ -2213,7 +2030,17 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
+        "start_time": "2026-10-29T13:00:00+08:00",
+        "end_time": "2026-10-29T17:30:00+08:00",
+        "facilities_en": "Training Pool , Teaching Pool, Landing Pool with water slides",
+        "facilities_tc": "訓練池 , 習泳池, 滑水梯",
+        "reason_en": "Insufficient Lifeguard",
+        "reason_tc": "救生員不足",
+        "remarks_en": "",
+        "remarks_tc": ""
+      },
+      {
+        "start_time": "2026-10-29T17:30:00+08:00",
         "end_time": null,
         "facilities_en": "Training Pool , Landing Pool with water slides",
         "facilities_tc": "訓練池 , 滑水梯",
@@ -2430,10 +2257,10 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": null,
-        "facilities_en": "Leisure Pool, Jacuzzi",
-        "facilities_tc": "嬉水池, 按摩池",
+        "start_time": "2026-10-29T19:00:00+08:00",
+        "end_time": "2026-10-29T22:00:00+08:00",
+        "facilities_en": "Teaching Pool , Outdoor Training Pool, Leisure Pool, Jacuzzi",
+        "facilities_tc": "習泳池 , 戶外訓練池, 嬉水池, 按摩池",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
@@ -2567,8 +2394,8 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-10-28T06:30:00+08:00",
-        "end_time": "2026-10-28T12:00:00+08:00",
+        "start_time": "2026-10-29T14:15:00+08:00",
+        "end_time": "2026-10-29T22:00:00+08:00",
         "facilities_en": "Outdoor Training Pool, Jacuzzi",
         "facilities_tc": "室外訓練池, 按摩池",
         "reason_en": "Insufficient Lifeguard",
@@ -2577,10 +2404,20 @@
         "remarks_tc": ""
       },
       {
-        "start_time": "2026-10-28T13:00:00+08:00",
-        "end_time": "2026-10-28T14:15:00+08:00",
+        "start_time": "2026-10-30T06:30:00+08:00",
+        "end_time": "2026-10-30T14:15:00+08:00",
         "facilities_en": "Indoor Training Pool",
         "facilities_tc": "室內訓練池",
+        "reason_en": "Insufficient Lifeguard",
+        "reason_tc": "救生員不足",
+        "remarks_en": "",
+        "remarks_tc": ""
+      },
+      {
+        "start_time": "2026-10-30T10:00:00+08:00",
+        "end_time": "2026-10-30T14:15:00+08:00",
+        "facilities_en": "Jacuzzi",
+        "facilities_tc": "按摩池",
         "reason_en": "Insufficient Lifeguard",
         "reason_tc": "救生員不足",
         "remarks_en": "",
