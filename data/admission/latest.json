@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793284977000,
+  "timestamp": 1793371279000,
   "data": [
     {
       "district": "Central and Western",
@@ -135,9 +135,9 @@
       "district": "Tsuen Wan",
       "name_en": "Shing Mun Valley Swimming Pool",
       "status": "Open",
-      "maximumCapacity": 632,
+      "maximumCapacity": 542,
       "currentAdmission": 0,
-      "allowedAdmission": 632
+      "allowedAdmission": 542
     },
     {
       "district": "Tuen Mun",
