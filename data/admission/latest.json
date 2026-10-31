@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793371279000,
+  "timestamp": 1793457740000,
   "data": [
     {
       "district": "Central and Western",
@@ -109,7 +109,7 @@
     {
       "district": "Kwai Tsing",
       "name_en": "Kwai Shing Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Kwai Tsing",
@@ -135,14 +135,17 @@
       "district": "Tsuen Wan",
       "name_en": "Shing Mun Valley Swimming Pool",
       "status": "Open",
-      "maximumCapacity": 542,
+      "maximumCapacity": 404,
       "currentAdmission": 0,
-      "allowedAdmission": 542
+      "allowedAdmission": 404
     },
     {
       "district": "Tuen Mun",
       "name_en": "Tuen Mun Swimming Pool",
-      "status": "Closed"
+      "status": "Open",
+      "maximumCapacity": 716,
+      "currentAdmission": 110,
+      "allowedAdmission": 606
     },
     {
       "district": "Tuen Mun",
@@ -162,7 +165,7 @@
     {
       "district": "Yuen Long",
       "name_en": "Tin Shui Wai Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Yuen Long",
@@ -222,7 +225,7 @@
     {
       "district": "Islands",
       "name_en": "Mui Wo Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Islands",
