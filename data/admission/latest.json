@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793457740000,
+  "timestamp": 1793544088000,
   "data": [
     {
       "district": "Central and Western",
@@ -24,7 +24,7 @@
     {
       "district": "Eastern",
       "name_en": "Island East Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Eastern",
@@ -59,12 +59,12 @@
     {
       "district": "Kowloon City",
       "name_en": "Tai Wan Shan Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Kowloon City",
       "name_en": "Ho Man Tin Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Kowloon City",
@@ -84,7 +84,7 @@
     {
       "district": "Kwun Tong",
       "name_en": "Jordan Valley Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Kwun Tong",
@@ -104,7 +104,7 @@
     {
       "district": "Yau Tsim Mong",
       "name_en": "Tai Kok Tsui Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Kwai Tsing",
@@ -142,15 +142,12 @@
     {
       "district": "Tuen Mun",
       "name_en": "Tuen Mun Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 716,
-      "currentAdmission": 110,
-      "allowedAdmission": 606
+      "status": "Closed"
     },
     {
       "district": "Tuen Mun",
       "name_en": "The Jockey Club Yan Oi Tong Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Tuen Mun",
@@ -170,7 +167,7 @@
     {
       "district": "Yuen Long",
       "name_en": "Ping Shan Tin Shui Wai Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Yuen Long",
@@ -185,7 +182,7 @@
     {
       "district": "North",
       "name_en": "Sheung Shui Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Tai Po",
@@ -195,7 +192,7 @@
     {
       "district": "Tai Po",
       "name_en": "Tung Cheong Street Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Sha Tin",
@@ -215,12 +212,15 @@
     {
       "district": "Sai Kung",
       "name_en": "Tseung Kwan O Swimming Pool",
-      "status": "Closed"
+      "status": "Open",
+      "maximumCapacity": 416,
+      "currentAdmission": 0,
+      "allowedAdmission": 416
     },
     {
       "district": "Sai Kung",
       "name_en": "Sai Kung Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Islands",
