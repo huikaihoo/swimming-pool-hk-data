@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793544088000,
+  "timestamp": 1793630897000,
   "data": [
     {
       "district": "Central and Western",
@@ -39,7 +39,7 @@
     {
       "district": "Southern",
       "name_en": "Pao Yue Kong Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Sham Shui Po",
@@ -49,7 +49,7 @@
     {
       "district": "Sham Shui Po",
       "name_en": "Lei Cheng Uk Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Sham Shui Po",
@@ -114,12 +114,12 @@
     {
       "district": "Kwai Tsing",
       "name_en": "North Kwai Chung Jockey Club Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Kwai Tsing",
       "name_en": "Tsing Yi Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Kwai Tsing",
@@ -129,7 +129,7 @@
     {
       "district": "Tsuen Wan",
       "name_en": "Tsuen King Circuit Wu Chung Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Tsuen Wan",
@@ -187,7 +187,7 @@
     {
       "district": "Tai Po",
       "name_en": "Tai Po Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Tai Po",
@@ -207,7 +207,7 @@
     {
       "district": "Sha Tin",
       "name_en": "Ma On Shan Swimming Pool",
-      "status": "Closed"
+      "status": "Annual Maintenance"
     },
     {
       "district": "Sai Kung",

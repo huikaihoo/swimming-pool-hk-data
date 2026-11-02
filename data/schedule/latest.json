@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-02T18:00:00+08:00",
-        "end_time": "2026-11-02T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-04T18:00:00+08:00",
         "end_time": "2026-11-04T22:00:00+08:00",
         "facilities_en": "Multi-purpose Pool",
@@ -1217,7 +1207,18 @@
         "facilities_tc": "戶外習泳池、幼童池"
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-02T20:45:00+08:00",
+        "end_time": "2026-11-03T06:30:00+08:00",
+        "facilities_en": "Main Pool",
+        "facilities_tc": "主池",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: vomitus",
+        "remarks_tc": "發現物體 : 嘔吐物"
+      }
+    ]
   },
   {
     "name_en": "Wan Chai Swimming Pool",
@@ -1761,6 +1762,36 @@
         "reason_tc": "學校水運會",
         "remarks_en": "Function : Hong Kong Baptist Convention Primary School Swimming Gala Organization : Hong Kong Baptist Convention Primary School",
         "remarks_tc": "主辦項目 : 香港浸信會聯會小學水運會 主辦機構 : 香港浸信會聯會小學"
+      },
+      {
+        "start_time": "2026-12-02T07:30:00+08:00",
+        "end_time": "2026-12-02T16:00:00+08:00",
+        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
+        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Function : 馬鞍山靈糧小學水運會 Organization : 馬鞍山靈糧小學",
+        "remarks_tc": "主辦項目 : Ma On Shan Ling Liang Primary School Swimming Gala 主辦機構 : Ma On Shan Ling Liang Primary School"
+      },
+      {
+        "start_time": "2026-12-05T07:30:00+08:00",
+        "end_time": "2026-12-05T21:30:00+08:00",
+        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
+        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Division 3 (Part 1) Short Course Competition Organization : Jointly presented by LCSD & HKGSA",
+        "remarks_tc": "主辦項目 : 第三組短池游泳比賽(第一節) 主辦機構 : 康樂及文化事務署及中國香港游泳總會聯合主辦"
+      },
+      {
+        "start_time": "2026-12-06T07:30:00+08:00",
+        "end_time": "2026-12-06T21:30:00+08:00",
+        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
+        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Division 3 (Part 1) Short Course Competition Organization : Jointly presented by LCSD & HKGSA",
+        "remarks_tc": "主辦項目 : 第三組短池游泳比賽(第一節) 主辦機構 : 康樂及文化事務署及中國香港游泳總會聯合主辦"
       }
     ]
   },
