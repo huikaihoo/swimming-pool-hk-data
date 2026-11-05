@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793803575000,
+  "timestamp": 1793890015000,
   "data": [
     {
       "district": "Central and Western",
@@ -104,10 +104,7 @@
     {
       "district": "Yau Tsim Mong",
       "name_en": "Tai Kok Tsui Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 250,
-      "currentAdmission": 10,
-      "allowedAdmission": 240
+      "status": "Closed"
     },
     {
       "district": "Kwai Tsing",
