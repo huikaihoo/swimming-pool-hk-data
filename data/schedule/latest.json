@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-06T07:30:00+08:00",
-        "end_time": "2026-11-06T20:00:00+08:00",
-        "facilities_en": "Main Pool , Multi-purpose Pool",
-        "facilities_tc": "主池, 多用途池",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : Inter-School Swimming Competitions Organization : The Schools Sports Federation of Hong Kong, China",
-        "remarks_tc": "主辦項目 : 學界游泳比賽 主辦機構 : 中國香港學界體育聯會"
-      },
-      {
         "start_time": "2026-11-09T18:00:00+08:00",
         "end_time": "2026-11-09T22:00:00+08:00",
         "facilities_en": "Multi-purpose Pool",
@@ -449,16 +439,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-06T07:30:00+08:00",
-        "end_time": "2026-11-06T15:00:00+08:00",
-        "facilities_en": "Main pool",
-        "facilities_tc": "主池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : St. Joseph's Anglo-Chinese School",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 聖若瑟英文中學"
-      },
       {
         "start_time": "2026-11-13T07:30:00+08:00",
         "end_time": "2026-11-13T15:00:00+08:00",
@@ -1086,16 +1066,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-06T07:30:00+08:00",
-        "end_time": "2026-11-06T19:00:00+08:00",
-        "facilities_en": "Main Pool",
-        "facilities_tc": "主池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : Swimming Gala Organization : Baptist (Sha Tin Wai) Lui Ming Choi Primary School",
-        "remarks_tc": "主辦項目 : 水運會 主辦機構 : 浸信會沙田圍呂明才小學"
-      },
-      {
         "start_time": "2026-11-20T07:30:00+08:00",
         "end_time": "2026-11-20T15:00:00+08:00",
         "facilities_en": "Main Pool",
@@ -1396,18 +1366,7 @@
         "maintenance_end_date": "2026-06-23"
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-11-06T07:30:00+08:00",
-        "end_time": "2026-11-06T14:00:00+08:00",
-        "facilities_en": "Main Pool , Spectator Stand",
-        "facilities_tc": "主池, 觀眾看台",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : Christian & Missionary Alliance Sun Kei Primary School",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 基督教宣道會宣基小學"
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Chai Wan Swimming Pool",
@@ -1682,16 +1641,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-06T07:30:00+08:00",
-        "end_time": "2026-11-06T19:00:00+08:00",
-        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
-        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : 50th Special Olympic HK Swimming Competition Organization : Jointly presented by LCSD & HKCSAPID",
-        "remarks_tc": "主辦項目 : 第五十屆香港特殊奧運會游泳比賽 主辦機構 : 康樂及文化事務署 及 中國香港智障人士體育協會 聯合主辦"
-      },
       {
         "start_time": "2026-11-11T07:30:00+08:00",
         "end_time": "2026-11-11T16:00:00+08:00",
