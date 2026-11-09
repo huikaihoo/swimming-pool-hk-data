@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-09T18:00:00+08:00",
-        "end_time": "2026-11-09T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-11T18:00:00+08:00",
         "end_time": "2026-11-11T22:00:00+08:00",
         "facilities_en": "Multi-purpose Pool",
@@ -1270,16 +1260,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-08T07:30:00+08:00",
-        "end_time": "2026-11-08T19:00:00+08:00",
-        "facilities_en": "Main Pool , Training Pool , Spectator Stand",
-        "facilities_tc": "主池, 訓練池, 觀眾看台",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : Competition Organization : The University Sports Federation of Hong Kong, China",
-        "remarks_tc": "主辦項目 : 游泳比賽 主辦機構 : 中國香港大專體育協會"
-      },
       {
         "start_time": "2026-11-13T07:30:00+08:00",
         "end_time": "2026-11-13T16:00:00+08:00",
