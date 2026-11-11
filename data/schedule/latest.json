@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-11T18:00:00+08:00",
-        "end_time": "2026-11-11T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-12T07:30:00+08:00",
         "end_time": "2026-11-12T14:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -596,16 +586,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-11T08:00:00+08:00",
-        "end_time": "2026-11-11T21:00:00+08:00",
-        "facilities_en": "Main Pool , Diving Pool , Indoor L1 Training Pool",
-        "facilities_tc": "主池, 跳水池, 室內第一層訓練池",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : Inter-Primary School Swimming Competition (HK & KLN) Organization : The Schools Sports Federation of Hong Kong, China",
-        "remarks_tc": "主辦項目 : 港島及九龍地域小學校際游泳比賽 主辦機構 : 中國香港學界體育聯會"
-      },
       {
         "start_time": "2026-11-12T08:00:00+08:00",
         "end_time": "2026-11-12T15:00:00+08:00",
@@ -1662,16 +1642,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-11T07:30:00+08:00",
-        "end_time": "2026-11-11T16:00:00+08:00",
-        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
-        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : TWGHs Tsoi Wing Sing Primary School Swimming Gala Organization : TWGHs Tsoi Wing Sing Primary School",
-        "remarks_tc": "主辦項目 : 東華三院蔡榮星小學水運會 主辦機構 : 東華三院蔡榮星小學"
-      },
-      {
         "start_time": "2026-11-22T07:30:00+08:00",
         "end_time": "2026-11-22T21:30:00+08:00",
         "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
@@ -1787,18 +1757,7 @@
         "facilities_tc": "訓練池"
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-11-10T19:10:00+08:00",
-        "end_time": "2026-11-11T06:30:00+08:00",
-        "facilities_en": "Main Pool",
-        "facilities_tc": "主池",
-        "reason_en": "Contamination of Pool Water",
-        "reason_tc": "池水受污染",
-        "remarks_en": "Object Found: vomitus",
-        "remarks_tc": "發現物體 : 嘔吐物"
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Ping Shan Tin Shui Wai Swimming Pool",
@@ -1828,7 +1787,18 @@
         "facilities_tc": ""
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-11T19:00:00+08:00",
+        "end_time": "2026-11-12T06:30:00+08:00",
+        "facilities_en": "Training Pool",
+        "facilities_tc": "訓練池",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: vomitus",
+        "remarks_tc": "發現物體 : 嘔吐物"
+      }
+    ]
   },
   {
     "name_en": "Siu Sai Wan Swimming Pool",
