@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-12T07:30:00+08:00",
-        "end_time": "2026-11-12T14:00:00+08:00",
-        "facilities_en": "Main Pool , Multi-purpose Pool",
-        "facilities_tc": "主池, 多用途池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Organization : Chong Gene Hang College",
-        "remarks_tc": "主辦機構 : 張振興伉儷書院"
-      },
-      {
         "start_time": "2026-11-13T07:30:00+08:00",
         "end_time": "2026-11-13T15:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -586,16 +576,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-12T08:00:00+08:00",
-        "end_time": "2026-11-12T15:00:00+08:00",
-        "facilities_en": "Main Pool , Diving Pool , Indoor L1 Training Pool",
-        "facilities_tc": "主池, 跳水池, 室內第一層訓練池",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : All HK Secondary School Life Saving Competition 2026-2027 Organization : The Schools Sports Federation of Hong Kong, China",
-        "remarks_tc": "主辦項目 : 全港中學校際拯溺比賽2026-2027 主辦機構 : 中國香港學界體育聯會"
-      },
       {
         "start_time": "2026-11-13T08:00:00+08:00",
         "end_time": "2026-11-13T22:00:00+08:00",
@@ -1787,18 +1767,7 @@
         "facilities_tc": ""
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-11-11T19:00:00+08:00",
-        "end_time": "2026-11-12T06:30:00+08:00",
-        "facilities_en": "Training Pool",
-        "facilities_tc": "訓練池",
-        "reason_en": "Contamination of Pool Water",
-        "reason_tc": "池水受污染",
-        "remarks_en": "Object Found: vomitus",
-        "remarks_tc": "發現物體 : 嘔吐物"
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Siu Sai Wan Swimming Pool",
