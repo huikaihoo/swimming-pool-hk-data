@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-13T07:30:00+08:00",
-        "end_time": "2026-11-13T15:00:00+08:00",
-        "facilities_en": "Main Pool , Multi-purpose Pool",
-        "facilities_tc": "主池, 多用途池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Organization : SKH Lui Ming Choi Secondary School",
-        "remarks_tc": "主辦項目 : 聖公會呂明才中學"
-      },
-      {
         "start_time": "2026-11-14T07:30:00+08:00",
         "end_time": "2026-11-14T14:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -410,16 +400,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-13T07:30:00+08:00",
-        "end_time": "2026-11-13T15:00:00+08:00",
-        "facilities_en": "Main pool",
-        "facilities_tc": "主池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : Maryknoll Convent School (Secondary Section)",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 瑪利諾修院學校(中學部)"
-      },
-      {
         "start_time": "2026-11-20T07:30:00+08:00",
         "end_time": "2026-11-20T15:00:00+08:00",
         "facilities_en": "Main pool",
@@ -576,16 +556,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-13T08:00:00+08:00",
-        "end_time": "2026-11-13T22:00:00+08:00",
-        "facilities_en": "Main Pool , Diving Pool , Indoor L1 Training Pool",
-        "facilities_tc": "主池, 跳水池, 室內第一層訓練池",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : All HK Secondary School Life Saving Competition 2026-2027 Organization : The Schools Sports Federation of Hong Kong, China",
-        "remarks_tc": "主辦項目 : 全港中學校際拯溺比賽2026-2027 主辦機構 : 中國香港學界體育聯會"
-      },
       {
         "start_time": "2026-11-16T08:00:00+08:00",
         "end_time": "2026-11-16T14:00:00+08:00",
