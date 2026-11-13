@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794581117000,
+  "timestamp": 1794607768000,
   "data": [
     {
       "district": "Central and Western",
@@ -39,7 +39,7 @@
     {
       "district": "Southern",
       "name_en": "Pao Yue Kong Swimming Pool",
-      "status": "Annual Maintenance"
+      "status": "Closed"
     },
     {
       "district": "Sham Shui Po",
@@ -134,10 +134,7 @@
     {
       "district": "Tsuen Wan",
       "name_en": "Shing Mun Valley Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 404,
-      "currentAdmission": 0,
-      "allowedAdmission": 404
+      "status": "Closed"
     },
     {
       "district": "Tuen Mun",
@@ -212,10 +209,7 @@
     {
       "district": "Sai Kung",
       "name_en": "Tseung Kwan O Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 416,
-      "currentAdmission": 0,
-      "allowedAdmission": 416
+      "status": "Closed"
     },
     {
       "district": "Sai Kung",
