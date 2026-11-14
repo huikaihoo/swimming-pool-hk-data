@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794631804000,
+  "timestamp": 1794632274000,
   "data": [
     {
       "district": "Central and Western",
@@ -104,7 +104,10 @@
     {
       "district": "Yau Tsim Mong",
       "name_en": "Tai Kok Tsui Swimming Pool",
-      "status": "Closed"
+      "status": "Open",
+      "maximumCapacity": 250,
+      "currentAdmission": 0,
+      "allowedAdmission": 250
     },
     {
       "district": "Kwai Tsing",
@@ -139,7 +142,10 @@
     {
       "district": "Tuen Mun",
       "name_en": "Tuen Mun Swimming Pool",
-      "status": "Closed"
+      "status": "Open",
+      "maximumCapacity": 541,
+      "currentAdmission": 0,
+      "allowedAdmission": 541
     },
     {
       "district": "Tuen Mun",
