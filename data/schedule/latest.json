@@ -1751,7 +1751,18 @@
         "maintenance_end_date": "2026-07-26"
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-14T15:45:00+08:00",
+        "end_time": "2026-11-14T18:45:00+08:00",
+        "facilities_en": "Training Pool (2)",
+        "facilities_tc": "訓練池 (2)",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: vomitus",
+        "remarks_tc": "發現物體 : 嘔吐物"
+      }
+    ]
   },
   {
     "name_en": "Tuen Mun North West Swimming Pool",
