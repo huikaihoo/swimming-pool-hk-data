@@ -1,29 +1,20 @@
 {
-  "timestamp": 1794628738000,
+  "timestamp": 1794629668000,
   "data": [
     {
       "district": "Central and Western",
       "name_en": "Kennedy Town Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 364,
-      "currentAdmission": 157,
-      "allowedAdmission": 207
+      "status": "Closed"
     },
     {
       "district": "Central and Western",
       "name_en": "Sun Yat Sen Memorial Park Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 833,
-      "currentAdmission": 108,
-      "allowedAdmission": 725
+      "status": "Closed"
     },
     {
       "district": "Wan Chai",
       "name_en": "Morrison Hill Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 900,
-      "currentAdmission": 337,
-      "allowedAdmission": 563
+      "status": "Closed"
     },
     {
       "district": "Wan Chai",
@@ -33,10 +24,7 @@
     {
       "district": "Eastern",
       "name_en": "Island East Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 203,
-      "currentAdmission": 51,
-      "allowedAdmission": 152
+      "status": "Closed"
     },
     {
       "district": "Eastern",
@@ -46,10 +34,7 @@
     {
       "district": "Eastern",
       "name_en": "Siu Sai Wan Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 582,
-      "currentAdmission": 150,
-      "allowedAdmission": 432
+      "status": "Closed"
     },
     {
       "district": "Southern",
@@ -59,10 +44,7 @@
     {
       "district": "Sham Shui Po",
       "name_en": "Lai Chi Kok Park Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 1533,
-      "currentAdmission": 372,
-      "allowedAdmission": 1161
+      "status": "Closed"
     },
     {
       "district": "Sham Shui Po",
@@ -72,10 +54,7 @@
     {
       "district": "Sham Shui Po",
       "name_en": "Sham Shui Po Park Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 833,
-      "currentAdmission": 35,
-      "allowedAdmission": 798
+      "status": "Closed"
     },
     {
       "district": "Kowloon City",
@@ -85,34 +64,22 @@
     {
       "district": "Kowloon City",
       "name_en": "Ho Man Tin Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 156,
-      "currentAdmission": 72,
-      "allowedAdmission": 84
+      "status": "Closed"
     },
     {
       "district": "Kowloon City",
       "name_en": "Kowloon Tsai Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 833,
-      "currentAdmission": 76,
-      "allowedAdmission": 757
+      "status": "Closed"
     },
     {
       "district": "Wong Tai Sin",
       "name_en": "Morse Park Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 700,
-      "currentAdmission": 216,
-      "allowedAdmission": 484
+      "status": "Closed"
     },
     {
       "district": "Wong Tai Sin",
       "name_en": "Hammer Hill Road Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 453,
-      "currentAdmission": 42,
-      "allowedAdmission": 411
+      "status": "Closed"
     },
     {
       "district": "Kwun Tong",
@@ -122,34 +89,22 @@
     {
       "district": "Kwun Tong",
       "name_en": "Kwun Tong Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 1333,
-      "currentAdmission": 717,
-      "allowedAdmission": 616
+      "status": "Closed"
     },
     {
       "district": "Kwun Tong",
       "name_en": "Lam Tin Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 582,
-      "currentAdmission": 150,
-      "allowedAdmission": 432
+      "status": "Closed"
     },
     {
       "district": "Yau Tsim Mong",
       "name_en": "Kowloon Park Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 654,
-      "currentAdmission": 407,
-      "allowedAdmission": 247
+      "status": "Closed"
     },
     {
       "district": "Yau Tsim Mong",
       "name_en": "Tai Kok Tsui Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 250,
-      "currentAdmission": 54,
-      "allowedAdmission": 196
+      "status": "Closed"
     },
     {
       "district": "Kwai Tsing",
@@ -169,10 +124,7 @@
     {
       "district": "Kwai Tsing",
       "name_en": "Tsing Yi Southwest Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 125,
-      "currentAdmission": 90,
-      "allowedAdmission": 35
+      "status": "Closed"
     },
     {
       "district": "Tsuen Wan",
@@ -182,18 +134,12 @@
     {
       "district": "Tsuen Wan",
       "name_en": "Shing Mun Valley Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 404,
-      "currentAdmission": 357,
-      "allowedAdmission": 47
+      "status": "Closed"
     },
     {
       "district": "Tuen Mun",
       "name_en": "Tuen Mun Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 541,
-      "currentAdmission": 116,
-      "allowedAdmission": 425
+      "status": "Closed"
     },
     {
       "district": "Tuen Mun",
@@ -203,18 +149,12 @@
     {
       "district": "Tuen Mun",
       "name_en": "Tuen Mun North West Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 282,
-      "currentAdmission": 223,
-      "allowedAdmission": 59
+      "status": "Closed"
     },
     {
       "district": "Yuen Long",
       "name_en": "Yuen Long Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 700,
-      "currentAdmission": 121,
-      "allowedAdmission": 579
+      "status": "Closed"
     },
     {
       "district": "Yuen Long",
@@ -224,26 +164,17 @@
     {
       "district": "Yuen Long",
       "name_en": "Ping Shan Tin Shui Wai Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 250,
-      "currentAdmission": 121,
-      "allowedAdmission": 129
+      "status": "Closed"
     },
     {
       "district": "Yuen Long",
       "name_en": "Tin Sau Road Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 416,
-      "currentAdmission": 131,
-      "allowedAdmission": 285
+      "status": "Closed"
     },
     {
       "district": "North",
       "name_en": "Fanling Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 800,
-      "currentAdmission": 174,
-      "allowedAdmission": 626
+      "status": "Closed"
     },
     {
       "district": "North",
@@ -258,26 +189,17 @@
     {
       "district": "Tai Po",
       "name_en": "Tung Cheong Street Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 618,
-      "currentAdmission": 247,
-      "allowedAdmission": 371
+      "status": "Closed"
     },
     {
       "district": "Sha Tin",
       "name_en": "Sha Tin Jockey Club Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 830,
-      "currentAdmission": 48,
-      "allowedAdmission": 782
+      "status": "Closed"
     },
     {
       "district": "Sha Tin",
       "name_en": "Hin Tin Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 450,
-      "currentAdmission": 232,
-      "allowedAdmission": 218
+      "status": "Closed"
     },
     {
       "district": "Sha Tin",
@@ -287,10 +209,7 @@
     {
       "district": "Sai Kung",
       "name_en": "Tseung Kwan O Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 416,
-      "currentAdmission": 15,
-      "allowedAdmission": 401
+      "status": "Closed"
     },
     {
       "district": "Sai Kung",
@@ -305,10 +224,7 @@
     {
       "district": "Islands",
       "name_en": "Tung Chung Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 833,
-      "currentAdmission": 214,
-      "allowedAdmission": 619
+      "status": "Closed"
     }
   ]
 }
