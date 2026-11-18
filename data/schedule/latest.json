@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-18T18:00:00+08:00",
-        "end_time": "2026-11-18T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-20T07:30:00+08:00",
         "end_time": "2026-11-20T17:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -712,18 +702,7 @@
         "facilities_tc": "室內泳池(主池、訓練池)"
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-11-17T19:30:00+08:00",
-        "end_time": "2026-11-17T21:30:00+08:00",
-        "facilities_en": "Indoor Training Pool",
-        "facilities_tc": "室內訓練池",
-        "reason_en": "Contamination of Pool Water",
-        "reason_tc": "池水受污染",
-        "remarks_en": "Object Found: others (Leak of carbon)",
-        "remarks_tc": "發現物體 : 其他 (噴碳)"
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "The Jockey Club Yan Oi Tong Swimming Pool",
