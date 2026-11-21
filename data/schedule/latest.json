@@ -1110,16 +1110,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-20T07:30:00+08:00",
-        "end_time": "2026-11-20T15:00:00+08:00",
-        "facilities_en": "Main Pool , Training Pool , Spectator Stand",
-        "facilities_tc": "主池, 訓練池, 觀眾看台",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : CANOSSA SCHOOL (HONG KONG)",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 香港嘉諾撒學校"
-      },
-      {
         "start_time": "2026-11-27T07:30:00+08:00",
         "end_time": "2026-11-27T16:00:00+08:00",
         "facilities_en": "Main Pool , Training Pool , Spectator Stand",
