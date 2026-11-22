@@ -1491,16 +1491,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-22T07:30:00+08:00",
-        "end_time": "2026-11-22T21:30:00+08:00",
-        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
-        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
-        "reason_en": "Competition",
-        "reason_tc": "游泳比賽",
-        "remarks_en": "Function : Short Course Swimming Championship 2026 Organization : Jointly presented by LCSD & HKCASA",
-        "remarks_tc": "主辦項目 : 短池游泳錦標賽 2026 主辦機構 : 康樂及文化事務署 及 香港中華業餘游泳聯會 聯合主辦"
-      },
-      {
         "start_time": "2026-11-25T07:30:00+08:00",
         "end_time": "2026-11-25T16:00:00+08:00",
         "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
