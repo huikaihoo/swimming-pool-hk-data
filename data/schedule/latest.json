@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-23T18:00:00+08:00",
-        "end_time": "2026-11-23T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-25T18:00:00+08:00",
         "end_time": "2026-11-25T22:00:00+08:00",
         "facilities_en": "Multi-purpose Pool",
@@ -1311,7 +1301,18 @@
         "facilities_tc": "主池"
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-23T20:10:00+08:00",
+        "end_time": "2026-11-24T06:30:00+08:00",
+        "facilities_en": "Main Pool",
+        "facilities_tc": "主池",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: vomitus",
+        "remarks_tc": "發現物體 : 嘔吐物"
+      }
+    ]
   },
   {
     "name_en": "Hin Tin Swimming Pool",
@@ -1660,7 +1661,18 @@
         "maintenance_end_date": "2026-07-26"
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-23T18:00:00+08:00",
+        "end_time": "2026-11-24T06:15:00+08:00",
+        "facilities_en": "Training Pool (1)",
+        "facilities_tc": "訓練池 (1)",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: stool",
+        "remarks_tc": "發現物體 : 糞便"
+      }
+    ]
   },
   {
     "name_en": "Tuen Mun North West Swimming Pool",
