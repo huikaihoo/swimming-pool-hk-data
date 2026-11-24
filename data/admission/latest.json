@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795445177000,
+  "timestamp": 1795531542000,
   "data": [
     {
       "district": "Central and Western",
@@ -100,9 +100,9 @@
       "district": "Yau Tsim Mong",
       "name_en": "Kowloon Park Swimming Pool",
       "status": "Open",
-      "maximumCapacity": 654,
+      "maximumCapacity": 604,
       "currentAdmission": 0,
-      "allowedAdmission": 654
+      "allowedAdmission": 604
     },
     {
       "district": "Yau Tsim Mong",
