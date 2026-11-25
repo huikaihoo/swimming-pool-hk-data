@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-25T18:00:00+08:00",
-        "end_time": "2026-11-25T22:00:00+08:00",
-        "facilities_en": "Multi-purpose Pool",
-        "facilities_tc": "多用途池",
-        "reason_en": "Training",
-        "reason_tc": "訓練",
-        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
-        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
-      },
-      {
         "start_time": "2026-11-26T07:30:00+08:00",
         "end_time": "2026-11-26T14:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -71,6 +61,186 @@
       {
         "start_time": "2026-11-30T18:00:00+08:00",
         "end_time": "2026-11-30T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-02T18:00:00+08:00",
+        "end_time": "2026-12-02T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-04T07:30:00+08:00",
+        "end_time": "2026-12-04T15:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Organization : TWGHs Lee Ching Dea Memorial College",
+        "remarks_tc": "主辦機構 : 東華三院李潤田紀念中學"
+      },
+      {
+        "start_time": "2026-12-06T06:30:00+08:00",
+        "end_time": "2026-12-06T22:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : 3rd Asian Intercities Youth and University Student Finswimming Competition Organization : Hong Kong China Underwater Association Limited",
+        "remarks_tc": "主辦項目 : 第三屆亞洲聯城青少年及大學生蹼泳賽 主辦機構 : 中國香港潛水總會"
+      },
+      {
+        "start_time": "2026-12-07T18:00:00+08:00",
+        "end_time": "2026-12-07T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-09T18:00:00+08:00",
+        "end_time": "2026-12-09T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-10T07:30:00+08:00",
+        "end_time": "2026-12-10T14:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Organization : Canossa College",
+        "remarks_tc": "主辦機構 : 嘉諾撒書院"
+      },
+      {
+        "start_time": "2026-12-11T07:30:00+08:00",
+        "end_time": "2026-12-11T15:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Organization : St. Francis' Canossian College",
+        "remarks_tc": "主辦機構 : 嘉諾撒聖方濟各書院"
+      },
+      {
+        "start_time": "2026-12-13T06:30:00+08:00",
+        "end_time": "2026-12-13T22:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Eastern District Age Group Swimming Competition 2026-27 Organization : Leisure & Cultural Services Department",
+        "remarks_tc": "主辦項目 : 東區分齡游泳比賽 2026-27 主辦機構 : 康樂及文化事務署"
+      },
+      {
+        "start_time": "2026-12-14T18:00:00+08:00",
+        "end_time": "2026-12-14T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-16T18:00:00+08:00",
+        "end_time": "2026-12-16T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-17T07:30:00+08:00",
+        "end_time": "2026-12-17T17:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Organization : Clementi Secondary School",
+        "remarks_tc": "主辦機構 : 金文泰中學"
+      },
+      {
+        "start_time": "2026-12-18T07:30:00+08:00",
+        "end_time": "2026-12-18T17:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "School Swimming Gala",
+        "reason_tc": "學校水運會",
+        "remarks_en": "Organization : Shau Kei Wan Government Secondary School",
+        "remarks_tc": "主辦機構 : 筲箕灣官立中學"
+      },
+      {
+        "start_time": "2026-12-19T11:00:00+08:00",
+        "end_time": "2026-12-19T22:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Short Course Competition Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 短途游泳比賽 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-20T06:30:00+08:00",
+        "end_time": "2026-12-20T22:00:00+08:00",
+        "facilities_en": "Main Pool , Multi-purpose Pool",
+        "facilities_tc": "主池, 多用途池",
+        "reason_en": "Competition",
+        "reason_tc": "游泳比賽",
+        "remarks_en": "Function : Short Course Competition Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 短途游泳比賽 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-21T18:00:00+08:00",
+        "end_time": "2026-12-21T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-23T18:00:00+08:00",
+        "end_time": "2026-12-23T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : SS Squard Training(6-8pm) & Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 韻律泳訓練(晚上6-8時),水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-28T20:00:00+08:00",
+        "end_time": "2026-12-28T22:00:00+08:00",
+        "facilities_en": "Multi-purpose Pool",
+        "facilities_tc": "多用途池",
+        "reason_en": "Training",
+        "reason_tc": "訓練",
+        "remarks_en": "Function : Water Polo Training(8-10pm) Organization : Hong Kong China Swimming Association",
+        "remarks_tc": "主辦項目 : 水球訓練(晚上8-10時) 主辦機構 : 中國香港游泳總會"
+      },
+      {
+        "start_time": "2026-12-30T18:00:00+08:00",
+        "end_time": "2026-12-30T22:00:00+08:00",
         "facilities_en": "Multi-purpose Pool",
         "facilities_tc": "多用途池",
         "reason_en": "Training",
@@ -496,16 +666,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-25T08:00:00+08:00",
-        "end_time": "2026-11-25T14:00:00+08:00",
-        "facilities_en": "Main Pool , Diving Pool , Indoor L1 Training Pool",
-        "facilities_tc": "主池, 跳水池, 室內第一層訓練池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : Swimming gala Organization : Homantin Government Secondary School",
-        "remarks_tc": "主辦項目 : 水運會 主辦機構 : 何文田官立中學"
-      },
       {
         "start_time": "2026-11-28T08:00:00+08:00",
         "end_time": "2026-11-28T22:00:00+08:00",
@@ -1337,7 +1497,18 @@
         "facilities_tc": "戶外泳池(訓練池、嬉水池)"
       }
     ],
-    "temp_closure": []
+    "temp_closure": [
+      {
+        "start_time": "2026-11-25T20:20:00+08:00",
+        "end_time": "2026-11-25T21:30:00+08:00",
+        "facilities_en": "Indoor Main Pool , Indoor Jacuzzi Pool",
+        "facilities_tc": "室內主池, 室內按摩池",
+        "reason_en": "Contamination of Pool Water",
+        "reason_tc": "池水受污染",
+        "remarks_en": "Object Found: vomitus",
+        "remarks_tc": "發現物體 : 嘔吐物"
+      }
+    ]
   },
   {
     "name_en": "Ma On Shan Swimming Pool",
@@ -1480,16 +1651,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-25T07:30:00+08:00",
-        "end_time": "2026-11-25T16:00:00+08:00",
-        "facilities_en": "All Indoor Facilities (including Main Pool (1.2M), Main Pool (2M), Spectator stand)",
-        "facilities_tc": "所有室內設施 (包括主池1.2米、主池2米、觀眾看台)",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : Hong Kong Baptist Convention Primary School Swimming Gala Organization : Hong Kong Baptist Convention Primary School",
-        "remarks_tc": "主辦項目 : 香港浸信會聯會小學水運會 主辦機構 : 香港浸信會聯會小學"
-      },
       {
         "start_time": "2026-12-02T07:30:00+08:00",
         "end_time": "2026-12-02T16:00:00+08:00",
