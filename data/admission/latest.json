@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795617939000,
+  "timestamp": 1795704363000,
   "data": [
     {
       "district": "Central and Western",
@@ -233,7 +233,10 @@
     {
       "district": "Islands",
       "name_en": "Tung Chung Swimming Pool",
-      "status": "Closed"
+      "status": "Open",
+      "maximumCapacity": 833,
+      "currentAdmission": 45,
+      "allowedAdmission": 788
     }
   ]
 }
