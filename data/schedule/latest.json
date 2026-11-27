@@ -29,16 +29,6 @@
     ],
     "temp_closure": [
       {
-        "start_time": "2026-11-27T07:30:00+08:00",
-        "end_time": "2026-11-27T17:00:00+08:00",
-        "facilities_en": "Main Pool , Multi-purpose Pool",
-        "facilities_tc": "主池, 多用途池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Organization : Queen's College",
-        "remarks_tc": "主辦機構 : 皇仁書院"
-      },
-      {
         "start_time": "2026-11-28T07:30:00+08:00",
         "end_time": "2026-11-28T14:00:00+08:00",
         "facilities_en": "Main Pool , Multi-purpose Pool",
@@ -376,18 +366,7 @@
         "facilities_tc": "主池、副池、跳水池"
       }
     ],
-    "temp_closure": [
-      {
-        "start_time": "2026-11-26T19:00:00+08:00",
-        "end_time": "2026-11-26T21:15:00+08:00",
-        "facilities_en": "Main Pool",
-        "facilities_tc": "主池",
-        "reason_en": "Insufficient Lifeguard",
-        "reason_tc": "救生員不足",
-        "remarks_en": "",
-        "remarks_tc": ""
-      }
-    ]
+    "temp_closure": []
   },
   {
     "name_en": "Sham Shui Po Park Swimming Pool",
@@ -520,16 +499,6 @@
       }
     ],
     "temp_closure": [
-      {
-        "start_time": "2026-11-27T07:30:00+08:00",
-        "end_time": "2026-11-27T14:00:00+08:00",
-        "facilities_en": "Main pool",
-        "facilities_tc": "主池",
-        "reason_en": "School Swimming Gala",
-        "reason_tc": "學校水運會",
-        "remarks_en": "Function : School Swimming Gala Organization : CCC Kei Chi Secondary School",
-        "remarks_tc": "主辦項目 : 學校水運會 主辦機構 : 中華基督教會基智中學"
-      },
       {
         "start_time": "2026-12-06T07:30:00+08:00",
         "end_time": "2026-12-06T21:00:00+08:00",
