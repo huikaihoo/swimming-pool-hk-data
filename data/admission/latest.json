@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795790714000,
+  "timestamp": 1795876874000,
   "data": [
     {
       "district": "Central and Western",
@@ -100,9 +100,9 @@
       "district": "Yau Tsim Mong",
       "name_en": "Kowloon Park Swimming Pool",
       "status": "Open",
-      "maximumCapacity": 654,
+      "maximumCapacity": 549,
       "currentAdmission": 0,
-      "allowedAdmission": 654
+      "allowedAdmission": 549
     },
     {
       "district": "Yau Tsim Mong",
@@ -233,10 +233,7 @@
     {
       "district": "Islands",
       "name_en": "Tung Chung Swimming Pool",
-      "status": "Open",
-      "maximumCapacity": 833,
-      "currentAdmission": 45,
-      "allowedAdmission": 788
+      "status": "Closed"
     }
   ]
 }
